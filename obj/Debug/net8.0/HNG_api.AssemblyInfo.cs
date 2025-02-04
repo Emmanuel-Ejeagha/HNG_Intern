@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HNG_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb2d89230bf5d9af33c80ccc2082a4c6558d0d47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab90a7d0cee4e66a436e75f0f08cef3556aafa74")]
 [assembly: System.Reflection.AssemblyProductAttribute("HNG_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HNG_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
