@@ -19,7 +19,7 @@ namespace HNG_api.Controllers
             {
                 email = "emmzzy68@gmail.com",
                 current_datetime = DateTime.UtcNow.ToString("o"),
-                github_url = "https://github.com/Emmanuel-Ejeagha"
+                github_url = "https://github.com/Emmanuel-Ejeagha/HNG_Intern"
             };
             return Ok(response);
         }
