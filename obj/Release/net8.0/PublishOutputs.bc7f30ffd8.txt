@@ -1,0 +1,12 @@
+/home/emma/Desktop/HNGIntern/HNG_api/bin/Release/net8.0/publish/HNG_api
+/home/emma/Desktop/HNGIntern/HNG_api/bin/Release/net8.0/publish/appsettings.Development.json
+/home/emma/Desktop/HNGIntern/HNG_api/bin/Release/net8.0/publish/appsettings.json
+/home/emma/Desktop/HNGIntern/HNG_api/bin/Release/net8.0/publish/HNG_api.dll
+/home/emma/Desktop/HNGIntern/HNG_api/bin/Release/net8.0/publish/HNG_api.deps.json
+/home/emma/Desktop/HNGIntern/HNG_api/bin/Release/net8.0/publish/HNG_api.runtimeconfig.json
+/home/emma/Desktop/HNGIntern/HNG_api/bin/Release/net8.0/publish/HNG_api.pdb
+/home/emma/Desktop/HNGIntern/HNG_api/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/emma/Desktop/HNGIntern/HNG_api/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/home/emma/Desktop/HNGIntern/HNG_api/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/emma/Desktop/HNGIntern/HNG_api/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/emma/Desktop/HNGIntern/HNG_api/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
